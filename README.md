@@ -2,8 +2,10 @@
 
 hw1
 ===
-##去yolo-V8官網clone程式碼下來，並跑程式即可
-
+### 去yolo-V8官網clone程式碼下來，並跑程式即可
+### 指令:
+#### pip install ultralytics
+#### yolo predict model=yolov8n.pt source="YYour_source_path"
 
 hw2
 ===
