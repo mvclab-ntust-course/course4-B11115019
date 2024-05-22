@@ -15,3 +15,8 @@ hw2
 
 ### 訓練結果:
 ![results](https://github.com/mvclab-ntust-course/course4-B11115019/assets/127180001/e672e64c-bab2-4204-8bec-e1de399ea95b)
+
+### 成果圖:
+#### 1是裁判，2是球，0是球員
+![train_batch1262](https://github.com/mvclab-ntust-course/course4-B11115019/assets/127180001/891f6cfd-8cfc-4653-88d4-ea9028b76527)
+
